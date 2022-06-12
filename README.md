@@ -6,21 +6,15 @@
 - Country: Brazil 
 - Pronouns: He/Him
 - Language: Portuguese, English
-
-<div align="center">
-  <a href="https://github.com/txszx">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=txszx&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=txszx&layout=compact&langs_count=7&theme=moltack"/>
-</div>
   
-  ## Contact ✉️
+## Contact ✉️
   
   - Discord: made in heaven#1774
  
   
-  ## Skills ⌨️
+## Skills ⌨️
   
-  <div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
   <img align="center" alt="txszx-Js" height="40" width="150" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="txszx-Ts" height="40" width="150" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="txszx-sql" height="40" width="150" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -37,7 +31,6 @@
    <a href="https://pin.it/7oB9WMy" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="blank"></a>
    <a href="https://steamcommunity.com/id/adorador_de_garotas2d/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
      <a href="https://music.apple.com/profile/lulu_tsx" target="_blank"><img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white">
- - Discord: made in heaven#1774
  </div>
   
 ## OS 💻
