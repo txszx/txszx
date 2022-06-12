@@ -1,7 +1,7 @@
 ### I'm here to see MF DOOM
 
-- Discord:  made in heaven#1774 
-- Pronouns   He/Him
+- 🗣Discord:  made in heaven#1774 
+- 🫶Pronouns   He/Him
 
 <div align="center">
   <a href="https://github.com/txszx">
@@ -10,10 +10,15 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="txszx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="txszx-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
+  <img align="center" alt="txszx-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="txszx-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </div>
+ 
+##  
+  
+<p align="center">
+  <img width="300" height="400" src="src/txszx/251c4d919b37aecc897f01894a03b320.gif">
+</p>
   
 ##
   
