@@ -9,7 +9,7 @@
   
 ## Contact ✉️
   
-  - Discord: made in heaven#1774
+  - Discord: _siouxsie_
  
   
 ## Skills ⌨️
